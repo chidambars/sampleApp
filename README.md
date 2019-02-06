@@ -1,3 +1,3 @@
 # sampleApp
 Sample Application
-Note: This a brief description on application 
+Note: This is a brief description on application branch. 
